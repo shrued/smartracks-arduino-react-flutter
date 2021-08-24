@@ -1,5 +1,5 @@
 # SmartRacks 
-This is the project I did for the Walmart Hackathon 2021. This solution is meant to help with Supply Chain Management. 
+Project for Walmart Hackathon 2021. This solution is meant to help with Supply Chain Management. 
 <br> The shelves in a store or a warehouse are equipped to weigh the products placed on it and estimate the number of items on it. On linking this with a database, 
 the employees can be alerted to restock the shelf.
 <br> On configuring the shelf to let it know what product it is holding, it will be able to weigh the items and calculate the total number of items on it. 
